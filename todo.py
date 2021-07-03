@@ -1,4 +1,4 @@
-#Python to-do app Application
+#Python to-do  Application
 user_input = 'random'
 # create a list for storing items
 data = list()
