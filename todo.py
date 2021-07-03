@@ -1,14 +1,12 @@
-# Simple Pyhton to-do app Project
+#Python to-do app Application
 user_input = 'random'
 # create a list for storing items
 data = list()
-# we are going to create 4 options
+#creating 4 options
 # 1. Add an item
 # 2. Mark as Done
 # 3. View Items
 # 4. Exit
-
-# Lets create menu items using function
 
 
 def showMenu():
